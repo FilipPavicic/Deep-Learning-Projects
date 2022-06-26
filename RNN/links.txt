@@ -1,0 +1,8 @@
+https://pytorch.org/tutorials/intermediate/speech_command_classification_with_torchaudio_tutorial.html
+
+https://pytorch.org/audio/stable/_modules/torchaudio/datasets/speechcommands.html
+
+https://discuss.pytorch.org/t/how-to-split-dataset-into-test-and-validation-sets/33987
+
+
+https://pytorch.org/docs/stable/data.html
